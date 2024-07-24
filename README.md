@@ -1,4 +1,4 @@
-# OPenai -voice assistants
+# OPenai -voice assistant
 
 ## Table of Contents
 
@@ -6,11 +6,10 @@
 2. [Features](#features)
 3. [Requirements](#requirements)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Project Structure](#project-structure)
+5. [Project Structure](#project-structure)
 7. [API References](#api-references)
 8. [Contributing](#contributing)
-9. [License](#license)
+
 
 ## Introduction
 
